@@ -21,7 +21,7 @@ The default values will work out of the box for most people.
 ## Usage
 The workflow has two keyword methods:
 1) kube
-2) kube-context
+2) kx (kube-context)
 
 The latter makes it easy to switch context. This can also be done by pressing `Configure Workflow...` under this workflow in Alfred preferences.
 
